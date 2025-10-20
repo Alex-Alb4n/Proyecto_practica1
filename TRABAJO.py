@@ -17,3 +17,4 @@ print("\n--- Resumen de notas ---")
 for i in range(13):  
     print(f"{nombres[i]}: {notas[i]}")
 print(f"\nPromedio general del grupo 'Sala 2 Programación': {promedio:.2f}/10")
+print("Gracias por usar este programa buen dia :) siuu")
